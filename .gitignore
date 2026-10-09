@@ -1,0 +1,9 @@
+.godot/
+*.nes
+*.zip
+build/
+__pycache__/
+node_modules/
+.venv/
+.DS_Store
+artifacts/*.png.import
